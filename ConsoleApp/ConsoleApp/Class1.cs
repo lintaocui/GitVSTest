@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
-    class Program
+    public class Class1
     {
-        static void Main(string[] args)
-        {
-            var obj = new Class1();
-        }
     }
 }
